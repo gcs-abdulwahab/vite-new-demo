@@ -3,7 +3,7 @@ import "./App.css";
 function App() {
 	return (
 		<>
-			<h1 className="bg-red-400"> This is the heading</h1>
+			<h1 className="bg-purple-400"> This is the Updated heading</h1>
 		</>
 	);
 }
